@@ -1,0 +1,9 @@
+# ignore folder
+/node_modules
+/build
+# ignore files
+.mov
+# lock files
+package-lock.json
+yarn.lock
+composer.lock
